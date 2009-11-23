@@ -1,0 +1,9 @@
+{
+    "name": "vault",
+    "description": "Vault Security Middleware",
+    "keywords": ["vault", "authentication", "security"],
+    "author": "Nathan Stott",
+    "email": "nathan.stott@whiteboard-it.com",
+    "dependencies": ["jack"]
+}
+
